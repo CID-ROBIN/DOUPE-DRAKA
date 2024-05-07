@@ -1,5 +1,5 @@
 # DOUPE-DRAKA
-Jednou se mi z toho snad podaří udělat hratelnou hru.
+Snad se mi z toho podaří udělat hratelnou hru.
 
 
 
